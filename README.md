@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar Mandal</h1>
-<h3 align="center">Full-Stack Developer · Cybersecurity (B.Tech) · AI Engineer · Pune, India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E75B6&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Kumar+Mandal;Full-Stack+Developer+%7C+MERN+Stack;AI+Engineer+%7C+LangChain+%7C+RAG+Pipelines;Cloud+Security+%7C+AZ-500+%7C+DevSecOps;Cyber+Security+%7C+B.Tech+CS" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Full-Stack Developer &nbsp;·&nbsp; Cybersecurity (B.Tech) &nbsp;·&nbsp; AI Engineer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vishalkrmandal" target="_blank">
@@ -29,7 +32,7 @@
 - ☁️ **Microsoft AZ-500** — All 4 security modules completed · **Azure Fundamentals** — All 3 modules
 - 👨‍🏫 Mentored **50+ students** in MERN Stack, React.js, Node.js, and AI-integrated development
 - 🎯 Currently targeting: **Full-Stack / Backend / AI Engineer / Cloud Security** roles
-- 📍 **Pune, Maharashtra** · Open to anywhere in India + Remote · **Immediate Joiner**
+
 
 ---
 
@@ -150,7 +153,6 @@
   📧 <a href="mailto:vishalparikshitmandal@gmail.com">vishalparikshitmandal@gmail.com</a><br/>
   💼 <a href="https://linkedin.com/in/vishalkrmandal">linkedin.com/in/vishalkrmandal</a><br/>
   🐙 <a href="https://github.com/vishalkrmandal">github.com/vishalkrmandal</a><br/>
-  📍 Pune, Maharashtra · Open to: Anywhere in India + Remote · <strong>Immediate Joiner</strong>
 </p>
 
 ---
