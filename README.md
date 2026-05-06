@@ -131,7 +131,7 @@
 
 ---
 
-#### 🏠 [RRU Hostel Management System](https://github.com/vishalkrmandal/hostel-management)
+#### 🏠 [RRU Hostel Management System](https://github.com/vishalkrmandal/Hostel-Management-System)
 > Full-stack RBAC web application with JWT authentication, 4 user roles, protected routing, and real-time dashboards. Reduced admin overhead by 50% across simultaneous workflows.
 
 **Stack:** `React.js` `Redux` `Node.js` `Express.js` `MongoDB` `TypeScript` `JWT`
