@@ -98,6 +98,39 @@
 
 ### 📌 Featured Projects
 
+---
+
+#### 💹 [Redesign Forex CRM](https://github.com/vishalkrmandal/Redesign-Forex-Crm)
+
+> Production-grade multi-role CRM platform for Forex trading operations — built for 100+ active financial traders with real-time dashboards, MT5 integration, and full role-based access control across Client, Admin, and SuperAdmin portals.
+
+**Stack:** `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT` `Redux`
+
+🔗 **Live Demo:** [forexcrm.vercel.app](https://forexcrm.vercel.app)
+
+<details>
+<summary><b>🔐 Demo Login Credentials</b></summary>
+
+| Role | URL | Email | Password |
+|---|---|---|---|
+| 👤 Client | [/](https://forexcrm.vercel.app/) | `client@gmail.com` | `123456` |
+| 🛠️ Admin | [/login/admin](https://forexcrm.vercel.app/login/admin) | `admin@gmail.com` | `123456` |
+| 👑 SuperAdmin | [/login/superadmin](https://forexcrm.vercel.app/login/superadmin) | `superadmin@gmail.com` | `123456` |
+
+</details>
+
+**📸 Screenshots**
+
+| Login | Client Dashboard |
+|---|---|
+| ![Login](screenshots/login.png) | ![Client Dashboard](screenshots/client-dashboard.png) |
+
+| Admin Dashboard | SuperAdmin Config |
+|---|---|
+| ![Admin Dashboard](screenshots/admin-dashboard.png) | ![SuperAdmin Config](screenshots/superadmin-config.png) |
+
+---
+
 #### 🏠 [RRU Hostel Management System](https://github.com/vishalkrmandal/hostel-management)
 > Full-stack RBAC web application with JWT authentication, 4 user roles, protected routing, and real-time dashboards. Reduced admin overhead by 50% across simultaneous workflows.
 
